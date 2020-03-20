@@ -1,5 +1,4 @@
-{
-  "articles":[
+[
   {
     "id": 1,
     "title": "Title one",
@@ -46,4 +45,4 @@
     "completed": false
   }
 ]
-}
+
